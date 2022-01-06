@@ -1,5 +1,4 @@
-![mahua](logo.jpg)
-##MSG是什么?
+![1@louis16s](logo.jpg)
 A MSG sending prmgarm
 
 ##MSG有哪些功能？
@@ -11,7 +10,7 @@ A MSG sending prmgarm
 ##正在开发的功能：
 * 自动保存号码
 * 可更换的url
-* 
+* 错误报告
 
 ##有问题反馈
 在使用中有任何问题，欢迎反馈
