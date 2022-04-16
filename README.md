@@ -1,5 +1,5 @@
 ![1@louis16s](logo.jpg)
-#A MSG sending prmgarm
+#A MSG sending program
 
 ##MSG有哪些功能？
 
